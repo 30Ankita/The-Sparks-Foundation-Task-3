@@ -1,0 +1,38 @@
+h2{
+    font-family: Raleway;
+	margin-left: 1.66%;
+	font-weight: 900;
+	font-size:23px;
+	text-transform: uppercase;
+	border-bottom: 8px solid #070707;
+	width: 20%;
+	padding-bottom: 20px;
+    padding-top: 20px;
+}
+p{
+	font-family: Raleway;
+	margin-left: 1.66%;
+	font-weight: 900;
+	font-size:23px;
+	text-transform: uppercase;
+	border-bottom: 8px solid #070707;
+	width: 20%;
+	padding-bottom: 20px;
+    padding-top: 20px;
+}
+h6{
+    /*font-family: 'Kalam', cursive;*/
+    font-size: 20px;
+}
+    #logo{
+    color: #3788de;
+}
+    div#footer
+    {
+    padding-top: 10px;
+    background-color: #0a0a0a;
+    color:white ;
+    padding-bottom: 35px;
+    margin-bottom: 0px;
+    margin-top: 10%;
+}
